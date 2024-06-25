@@ -23,7 +23,8 @@ namespace ImReady4Tests
         public void CorrectScoreCalculated()
         {
             var testData = _testDataProvider.SuccessfulTestData.ToList();
-            var reading = new Reading(DateTime.Now, 65, new decimal(38.16), new decimal(72.54));
+            var dt = DateTime.Parse("25/06/2024 16:54:39");
+            var reading = new Reading(dt, 65, new decimal(38.16), new decimal(72.54));
 
             var calculatedScores = _sut.CalculateScores(testData);
             var expectedResults = _testDataProvider.ExpectedSuccessfulResultData.ToList();
