@@ -1,4 +1,4 @@
-﻿using ImReady4.Model;
+﻿using ImReady4.Core.Model;
 using Microsoft.VisualBasic.FileIO;
 using System;
 using System.Collections.Generic;

@@ -1,8 +1,7 @@
-﻿using ImReady4.Extensions;
-using ImReady4.Model;
-using System.Runtime.Intrinsics.X86;
+﻿using ImReady4.Core.Extensions;
+using ImReady4.Core.Model;
 
-namespace ImReady4
+namespace ImReady4.Core
 {
     public class ScoreCalculator
     {

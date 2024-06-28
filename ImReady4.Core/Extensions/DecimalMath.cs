@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ImReady4.Extensions
+namespace ImReady4.Core.Extensions
 {
     public static class DecimalMath
     {

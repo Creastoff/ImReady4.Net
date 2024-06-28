@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ImReady4\ImReady4.csproj" />
+    <ProjectReference Include="..\ImReady4.Core\ImReady4.Core.csproj" />
   </ItemGroup>
 
   <ItemGroup>

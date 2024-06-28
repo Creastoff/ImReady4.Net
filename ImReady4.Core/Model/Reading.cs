@@ -1,4 +1,4 @@
-﻿namespace ImReady4.Model
+﻿namespace ImReady4.Core.Model
 {
     public class Reading(DateTime _dateOfReading, decimal _restingHR, decimal _rmssd, decimal _sdnn)
     {

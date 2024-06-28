@@ -1,5 +1,5 @@
-using ImReady4;
-using ImReady4.Model;
+using ImReady4.Core;
+using ImReady4.Core.Model;
 using NUnit.Framework;
 using System;
 using System.Linq;

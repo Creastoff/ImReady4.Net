@@ -1,4 +1,4 @@
-﻿namespace ImReady4.Model
+﻿namespace ImReady4.Core.Model
 {
     public class ScoreResult(DateTime dateofScore, string score, string detail, int code)
     {

@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImReady4", "ImReady4\ImReady4.csproj", "{832C3153-8496-4FAD-A8BB-5CC8CA8ECA1C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImReady4.Core", "ImReady4.Core\ImReady4.Core.csproj", "{832C3153-8496-4FAD-A8BB-5CC8CA8ECA1C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImReady4Tests", "ImReady4Tests\ImReady4Tests.csproj", "{DB3F5491-1712-4422-AC27-3664AD1351F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImReady4.Tests", "ImReady4.Tests\ImReady4.Tests.csproj", "{DB3F5491-1712-4422-AC27-3664AD1351F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
